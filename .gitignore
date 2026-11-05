@@ -22,3 +22,6 @@ work/
 *.p12
 *.mobileprovision
 *.key
+
+# Local agent instructions
+/AGENTS.md
